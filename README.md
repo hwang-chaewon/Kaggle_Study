@@ -1,8 +1,16 @@
 # Kaggle_Study
 HumanPming Kaggle 코드 전사 스터디
 
-How will I ever figure out how to put them back together according to the authors who wrote them? Or are they lost, forevermore? 
-Wait, I thought... I know, machine learning!
+(3/15~3/21)
+8: Natural language processing : classification, regression
 
-In this year's Halloween playground competition, 
-you're challenged to predict the author of excerpts from horror stories by Edgar Allan Poe, Mary Shelley, and HP Lovecraft. 
+(3/22 ~ 3/28)
+Binary classification : Image classification
+
+(3/29 ~ 4/4) 
+Binary classification : Tabular data
+
+Multi-class classification : Image classification
+
+(4/4 ~ 4/11)
+Object segmentation : Deep learning
